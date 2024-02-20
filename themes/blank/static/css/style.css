@@ -1,0 +1,9 @@
+html { padding: 10px; }
+body { font-family: Crimson Text, sans-serif; max-width: 600px; margin-left: auto; margin-right: auto; }
+img { max-width: 100%; }
+p.author { font-weight: bold; }
+p.date { font-style: italic; }
+#footer {
+font-family: Roboto Mono;
+color: gray;
+} 
