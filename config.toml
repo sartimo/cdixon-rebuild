@@ -1,9 +1,9 @@
 # The base URL of the site; the only required configuration variable.
-base_url = "https://st1020.github.io/kita"
+base_url = "https://ts.cli.rs/cdixon-rebuild"
 
 # The site title and description; used in feeds by default.
-title = "Kita"
-description = "Kita is a clean, elegant and simple blog theme for Zola."
+title = "cdixon"
+description = "cdixon"
 
 # The default site author.
 author = "st1020"
